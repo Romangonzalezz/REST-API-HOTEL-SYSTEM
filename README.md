@@ -35,3 +35,8 @@ npm install
 npm run dev
 
 
+Demo video: 
+
+https://www.youtube.com/watch?v=fm9MIQHUdns&ab_channel=RomG
+
+
