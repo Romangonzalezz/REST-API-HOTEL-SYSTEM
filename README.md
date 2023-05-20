@@ -13,6 +13,7 @@ cd .\env\Scripts\
 .\activate
 
 cd ..
+
 cd ..
 
 cd .\GestionDeHotelApi\
@@ -28,7 +29,9 @@ Pasos iniciar servidor en Frontend:
 -----------------------------------
 
 cd .\frontend\gestionhotelReact
+
 npm install
+
 npm run dev
 
 
